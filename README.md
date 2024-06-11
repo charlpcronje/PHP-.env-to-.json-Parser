@@ -1,6 +1,3 @@
-Sure, here is the comprehensive `README.md` file for the PHP `.env` to `.json` or `.js` parser:
-
-```markdown
 # PHP .env to .json/.js Parser
 
 This project demonstrates a PHP script that reads a `.env` file and converts it into either a `.json` or `.js` file based on the specified output file extension. The script supports various features including comments, quoted values, variable expansion, and default values.
