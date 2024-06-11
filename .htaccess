@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^generateHashes$ generate_hashes.php [L]
+RewriteRule ^env\.json$ convert_env_to_file.php?ext=json [L]
+RewriteRule ^env\.js$ convert_env_to_file.php?ext=js [L]
